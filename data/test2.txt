@@ -1,0 +1,52 @@
+
+
+(constant)  
+
+Info table1
+
+
+Column name          Type                                    Nulls
+
+id                   integer                                 yes
+column1              varchar(20,0)                           yes
+column2              date                                    yes
+column3              decimal(12,4)                           yes
+
+
+(constant)  
+
+Info table2
+
+
+Column name          Type                                    Nulls
+
+id                   integer                                 yes
+column1              varchar(20,0)                           yes
+column2              date                                    yes
+column3              decimal(12,4)                           yes
+
+
+(constant)  
+
+Info table3
+
+
+Column name          Type                                    Nulls
+
+id                   integer                                 yes
+column1              varchar(20,0)                           yes
+column2              date                                    yes
+column3              decimal(12,4)                           yes
+
+
+(constant)  
+
+Info table4
+
+
+Column name          Type                                    Nulls
+
+id                   integer                                 yes
+column1              varchar(20,0)                           yes
+column2              date                                    yes
+column3              decimal(12,4)                           yes

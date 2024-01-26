@@ -1,0 +1,82 @@
+
+
+
+tabid    100
+tabname  table1
+colname  id
+colno    1
+
+tabid    100
+tabname  table1
+colname  column1
+colno    2
+
+tabid    100
+tabname  table1
+colname  column2
+colno    3
+
+tabid    100
+tabname  table1
+colname  column3
+colno    4
+
+tabid    101
+tabname  table2
+colname  id
+colno    1
+
+tabid    101
+tabname  table2
+colname  column1
+colno    2
+
+tabid    101
+tabname  table2
+colname  column2
+colno    3
+
+tabid    101
+tabname  table2
+colname  column3
+colno    4
+
+tabid    102
+tabname  table3
+colname  id
+colno    1
+
+tabid    102
+tabname  table3
+colname  column1
+colno    2
+
+tabid    102
+tabname  table3
+colname  column2
+colno    3
+
+tabid    102
+tabname  table3
+colname  column3
+colno    4
+
+tabid    103
+tabname  table4
+colname  id
+colno    1
+
+tabid    103
+tabname  table4
+colname  column1
+colno    2
+
+tabid    103
+tabname  table4
+colname  column2
+colno    3
+
+tabid    103
+tabname  table4
+colname  column3
+colno    4
