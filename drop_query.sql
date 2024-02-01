@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS clientes; 
+DROP TABLE IF EXISTS facturas;
+DROP TABLE IF EXISTS categorias;
+DROP TABLE IF EXISTS proveedores;
+DROP TABLE IF EXISTS productos;
+DROP TABLE IF EXISTS ventas;
